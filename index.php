@@ -8,7 +8,7 @@
 		<div class="menu">  
 			<link href="/style.css" type="text/css" rel="stylesheet" />
 			<h2>CS 313 - Lindsey Moeller</h2>
-			<img alt="logo" src="/Untitled-1.JPG" id="logo">
+			<img alt="logo" src="/Untitled-1.jpg" id="logo">
      		<ul>
                 <li><a href="/index.php">Home</a></li>
                 <li><a href="/assignments.php">Assignments</a></li>
@@ -19,7 +19,7 @@
        
     <main id="intro">
         <h3>Home</h3>
-		<img class="run" alt="push 5k" src="/IMG_0487.jpg">
+		<img class="run" alt="push 5k" src="/IMG_0487.JPG">
 		<p>This is the new home page for my CS 313 site.</p>
 			<ul>
 				<li>My name is Lindsey</li>

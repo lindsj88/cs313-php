@@ -19,7 +19,7 @@
        
     <main id="intro">
         <h3>Home</h3>
-		<img class="run" alt="push 5k" src="/IMG_0487.JPG">
+		<img class="run" alt="push 5k" src="/IMG_0487.jpg">
 		<p>This is the new home page for my CS 313 site.</p>
 			<ul>
 				<li>My name is Lindsey</li>
